@@ -1,0 +1,13 @@
+{
+  "name": "@babel/parser",
+  "version": "7.29.9",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-parser"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "homepage": "https://babel.dev/docs/en/next/babel-parser",
+  "development_dependency": false
+}

@@ -1,0 +1,2440 @@
+{
+  "version": "0.1.11",
+  "components": [
+    {
+      "ecosystem": "go",
+      "name": "atomicgo.dev/cursor",
+      "version": "v0.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/atomicgo.dev__cursor@v0.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "atomicgo.dev/keyboard",
+      "version": "v0.2.9",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/atomicgo.dev__keyboard@v0.2.9/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "atomicgo.dev/schedule",
+      "version": "v0.1.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/atomicgo.dev__schedule@v0.1.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "cloud.google.com/go/compute/metadata",
+      "version": "v0.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/cloud.google.com__go__compute__metadata@v0.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "dario.cat/mergo",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/dario.cat__mergo@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "git.sr.ht/~jackmordaunt/go-toast/v2",
+      "version": "v2.0.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/git.sr.ht__~jackmordaunt__go-toast__v2@v2.0.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/Masterminds/semver",
+      "version": "v1.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__Masterminds__semver@v1.5.0/LICENSE.txt"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/Microsoft/go-winio",
+      "version": "v0.6.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__Microsoft__go-winio@v0.6.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/ProtonMail/go-crypto",
+      "version": "v1.1.6",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__ProtonMail__go-crypto@v1.1.6/AUTHORS",
+        "LICENSES/go/github.com__ProtonMail__go-crypto@v1.1.6/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/acarl005/stripansi",
+      "version": "v0.0.0-20180116102854-5a71ef0e047d",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__acarl005__stripansi@v0.0.0-20180116102854-5a71ef0e047d/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/alecthomas/chroma/v2",
+      "version": "v2.14.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__alecthomas__chroma__v2@v2.14.0/COPYING"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/aymanbagabas/go-osc52/v2",
+      "version": "v2.0.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__aymanbagabas__go-osc52__v2@v2.0.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/aymerick/douceur",
+      "version": "v0.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__aymerick__douceur@v0.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/beorn7/perks",
+      "version": "v1.0.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__beorn7__perks@v1.0.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/bep/debounce",
+      "version": "v1.2.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__bep__debounce@v1.2.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/bitfield/script",
+      "version": "v0.24.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__bitfield__script@v0.24.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/bytedance/sonic",
+      "version": "v1.14.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__bytedance__sonic@v1.14.0/.licenserc.yaml",
+        "LICENSES/go/github.com__bytedance__sonic@v1.14.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/bytedance/sonic/loader",
+      "version": "v0.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__bytedance__sonic__loader@v0.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/cespare/xxhash/v2",
+      "version": "v2.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__cespare__xxhash__v2@v2.2.0/LICENSE.txt"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/charmbracelet/glamour",
+      "version": "v0.8.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__charmbracelet__glamour@v0.8.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/charmbracelet/lipgloss",
+      "version": "v0.12.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__charmbracelet__lipgloss@v0.12.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/charmbracelet/x/ansi",
+      "version": "v0.1.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__charmbracelet__x__ansi@v0.1.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/cloudflare/circl",
+      "version": "v1.6.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__cloudflare__circl@v1.6.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/cloudwego/base64x",
+      "version": "v0.1.6",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__cloudwego__base64x@v0.1.6/.licenserc.yaml",
+        "LICENSES/go/github.com__cloudwego__base64x@v0.1.6/LICENSE",
+        "LICENSES/go/github.com__cloudwego__base64x@v0.1.6/LICENSE-APACHE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/containerd/console",
+      "version": "v1.0.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__containerd__console@v1.0.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/cyphar/filepath-securejoin",
+      "version": "v0.6.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__cyphar__filepath-securejoin@v0.6.1/COPYING.md",
+        "LICENSES/go/github.com__cyphar__filepath-securejoin@v0.6.1/LICENSE.BSD",
+        "LICENSES/go/github.com__cyphar__filepath-securejoin@v0.6.1/LICENSE.MPL-2.0"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/davecgh/go-spew",
+      "version": "v1.1.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__davecgh__go-spew@v1.1.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/dlclark/regexp2",
+      "version": "v1.11.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__dlclark__regexp2@v1.11.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/dustin/go-humanize",
+      "version": "v1.0.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__dustin__go-humanize@v1.0.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/emirpasic/gods",
+      "version": "v1.18.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__emirpasic__gods@v1.18.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/flytam/filenamify",
+      "version": "v1.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__flytam__filenamify@v1.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/francoispqt/gojay",
+      "version": "v1.2.13",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__francoispqt__gojay@v1.2.13/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/fsnotify/fsnotify",
+      "version": "v1.9.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__fsnotify__fsnotify@v1.9.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gabriel-vasile/mimetype",
+      "version": "v1.4.16",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gabriel-vasile__mimetype@v1.4.16/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gin-contrib/sse",
+      "version": "v1.1.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gin-contrib__sse@v1.1.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gin-gonic/gin",
+      "version": "v1.11.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gin-gonic__gin@v1.11.0/AUTHORS.md",
+        "LICENSES/go/github.com__gin-gonic__gin@v1.11.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-git/gcfg",
+      "version": "v1.5.1-0.20230307220236-3a3c6141e376",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-git__gcfg@v1.5.1-0.20230307220236-3a3c6141e376/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-git/go-billy/v5",
+      "version": "v5.9.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-git__go-billy__v5@v5.9.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-git/go-git/v5",
+      "version": "v5.19.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-git__go-git__v5@v5.19.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-ole/go-ole",
+      "version": "v1.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-ole__go-ole@v1.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-playground/assert/v2",
+      "version": "v2.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-playground__assert__v2@v2.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-playground/locales",
+      "version": "v0.14.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-playground__locales@v0.14.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-playground/universal-translator",
+      "version": "v0.18.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-playground__universal-translator@v0.18.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/go-playground/validator/v10",
+      "version": "v10.27.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__go-playground__validator__v10@v10.27.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/goccy/go-json",
+      "version": "v0.10.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__goccy__go-json@v0.10.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/goccy/go-yaml",
+      "version": "v1.18.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__goccy__go-yaml@v1.18.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/godbus/dbus/v5",
+      "version": "v5.1.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__godbus__dbus__v5@v5.1.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/golang-jwt/jwt/v5",
+      "version": "v5.2.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__golang-jwt__jwt__v5@v5.2.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/golang/groupcache",
+      "version": "v0.0.0-20241129210726-2c02b8208cf8",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__golang__groupcache@v0.0.0-20241129210726-2c02b8208cf8/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/golang/protobuf",
+      "version": "v1.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__golang__protobuf@v1.5.0/AUTHORS",
+        "LICENSES/go/github.com__golang__protobuf@v1.5.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/go-cmp",
+      "version": "v0.7.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__go-cmp@v0.7.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/gofuzz",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__gofuzz@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/jsonschema-go",
+      "version": "v0.4.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__jsonschema-go@v0.4.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/pprof",
+      "version": "v0.0.0-20250317173921-a4b03ec1a45e",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__pprof@v0.0.0-20250317173921-a4b03ec1a45e/AUTHORS",
+        "LICENSES/go/github.com__google__pprof@v0.0.0-20250317173921-a4b03ec1a45e/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/shlex",
+      "version": "v0.0.0-20191202100458-e7afc7fbc510",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__shlex@v0.0.0-20191202100458-e7afc7fbc510/COPYING"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/google/uuid",
+      "version": "v1.6.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__google__uuid@v1.6.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gookit/color",
+      "version": "v1.5.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gookit__color@v1.5.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gorilla/css",
+      "version": "v1.0.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gorilla__css@v1.0.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/gorilla/websocket",
+      "version": "v1.5.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__gorilla__websocket@v1.5.3/AUTHORS",
+        "LICENSES/go/github.com__gorilla__websocket@v1.5.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/itchyny/gojq",
+      "version": "v0.12.13",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__itchyny__gojq@v0.12.13/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/itchyny/timefmt-go",
+      "version": "v0.1.5",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__itchyny__timefmt-go@v0.1.5/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/jackmordaunt/icns",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__jackmordaunt__icns@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/jaypipes/ghw",
+      "version": "v0.21.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__jaypipes__ghw@v0.21.3/COPYING"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/jaypipes/pcidb",
+      "version": "v1.1.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__jaypipes__pcidb@v1.1.1/COPYING",
+        "LICENSES/go/github.com__jaypipes__pcidb@v1.1.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/jbenet/go-context",
+      "version": "v0.0.0-20150711004518-d14ea06fba99",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__jbenet__go-context@v0.0.0-20150711004518-d14ea06fba99/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/jchv/go-winloader",
+      "version": "v0.0.0-20210711035445-715c2860da7e",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__jchv__go-winloader@v0.0.0-20210711035445-715c2860da7e/LICENSE.md"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/json-iterator/go",
+      "version": "v1.1.12",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__json-iterator__go@v1.1.12/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/kevinburke/ssh_config",
+      "version": "v1.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__kevinburke__ssh_config@v1.2.0/AUTHORS.txt",
+        "LICENSES/go/github.com__kevinburke__ssh_config@v1.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/klauspost/cpuid/v2",
+      "version": "v2.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__klauspost__cpuid__v2@v2.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/kr/text",
+      "version": "v0.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__kr__text@v0.2.0/License"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/labstack/echo/v4",
+      "version": "v4.15.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__labstack__echo__v4@v4.15.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/labstack/gommon",
+      "version": "v0.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__labstack__gommon@v0.5.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/clir",
+      "version": "v1.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__clir@v1.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/debme",
+      "version": "v1.2.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__debme@v1.2.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/go-ansi-parser",
+      "version": "v1.6.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__go-ansi-parser@v1.6.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/gosod",
+      "version": "v1.0.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__gosod@v1.0.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/slicer",
+      "version": "v1.6.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__slicer@v1.6.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/u",
+      "version": "v1.1.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__u@v1.1.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leaanthony/winicon",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leaanthony__winicon@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/leodido/go-urn",
+      "version": "v1.4.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__leodido__go-urn@v1.4.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/lithammer/fuzzysearch",
+      "version": "v1.1.8",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__lithammer__fuzzysearch@v1.1.8/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/lucasb-eyer/go-colorful",
+      "version": "v1.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__lucasb-eyer__go-colorful@v1.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/matryer/is",
+      "version": "v1.4.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__matryer__is@v1.4.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/mattn/go-colorable",
+      "version": "v0.1.14",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__mattn__go-colorable@v0.1.14/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/mattn/go-isatty",
+      "version": "v0.0.22",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__mattn__go-isatty@v0.0.22/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/mattn/go-runewidth",
+      "version": "v0.0.16",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__mattn__go-runewidth@v0.0.16/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/microcosm-cc/bluemonday",
+      "version": "v1.0.27",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__microcosm-cc__bluemonday@v1.0.27/LICENSE.md"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/modelcontextprotocol/go-sdk",
+      "version": "v1.3.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__modelcontextprotocol__go-sdk@v1.3.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/modern-go/concurrent",
+      "version": "v0.0.0-20180228061459-e0a39a4cb421",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__modern-go__concurrent@v0.0.0-20180228061459-e0a39a4cb421/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/modern-go/reflect2",
+      "version": "v1.0.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__modern-go__reflect2@v1.0.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/muesli/reflow",
+      "version": "v0.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__muesli__reflow@v0.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/muesli/termenv",
+      "version": "v0.15.3-0.20240618155329-98d742f6907a",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__muesli__termenv@v0.15.3-0.20240618155329-98d742f6907a/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/ncruces/go-strftime",
+      "version": "v0.1.9",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__ncruces__go-strftime@v0.1.9/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/nfnt/resize",
+      "version": "v0.0.0-20180221191011-83c6a9932646",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__nfnt__resize@v0.0.0-20180221191011-83c6a9932646/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/niemeyer/pretty",
+      "version": "v0.0.0-20200227124842-a10e7caefd8e",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__niemeyer__pretty@v0.0.0-20200227124842-a10e7caefd8e/License"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pelletier/go-toml/v2",
+      "version": "v2.2.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pelletier__go-toml__v2@v2.2.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pjbgf/sha1cd",
+      "version": "v0.6.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pjbgf__sha1cd@v0.6.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pkg/browser",
+      "version": "v0.0.0-20240102092130-5ac0b6a4141c",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pkg__browser@v0.0.0-20240102092130-5ac0b6a4141c/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pkg/errors",
+      "version": "v0.9.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pkg__errors@v0.9.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pmezard/go-difflib",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pmezard__go-difflib@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/prometheus/client_golang",
+      "version": "v1.19.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__prometheus__client_golang@v1.19.1/LICENSE",
+        "LICENSES/go/github.com__prometheus__client_golang@v1.19.1/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/prometheus/client_model",
+      "version": "v0.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__prometheus__client_model@v0.5.0/LICENSE",
+        "LICENSES/go/github.com__prometheus__client_model@v0.5.0/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/prometheus/common",
+      "version": "v0.48.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__prometheus__common@v0.48.0/LICENSE",
+        "LICENSES/go/github.com__prometheus__common@v0.48.0/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/prometheus/procfs",
+      "version": "v0.12.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__prometheus__procfs@v0.12.0/LICENSE",
+        "LICENSES/go/github.com__prometheus__procfs@v0.12.0/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/pterm/pterm",
+      "version": "v0.12.80",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__pterm__pterm@v0.12.80/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/quic-go/qpack",
+      "version": "v0.5.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__quic-go__qpack@v0.5.1/LICENSE.md"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/quic-go/quic-go",
+      "version": "v0.54.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__quic-go__quic-go@v0.54.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/remyoudompheng/bigfft",
+      "version": "v0.0.0-20230129092748-24d4a6f8daec",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__remyoudompheng__bigfft@v0.0.0-20230129092748-24d4a6f8daec/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/rivo/uniseg",
+      "version": "v0.4.7",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__rivo__uniseg@v0.4.7/LICENSE.txt"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/sabhiram/go-gitignore",
+      "version": "v0.0.0-20210923224102-525f6e181f06",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__sabhiram__go-gitignore@v0.0.0-20210923224102-525f6e181f06/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/samber/lo",
+      "version": "v1.49.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__samber__lo@v1.49.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/segmentio/asm",
+      "version": "v1.1.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__segmentio__asm@v1.1.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/segmentio/encoding",
+      "version": "v0.5.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__segmentio__encoding@v0.5.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/sergi/go-diff",
+      "version": "v1.3.2-0.20230802210424-5b0b94c5c0d3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__sergi__go-diff@v1.3.2-0.20230802210424-5b0b94c5c0d3/APACHE-LICENSE-2.0",
+        "LICENSES/go/github.com__sergi__go-diff@v1.3.2-0.20230802210424-5b0b94c5c0d3/AUTHORS",
+        "LICENSES/go/github.com__sergi__go-diff@v1.3.2-0.20230802210424-5b0b94c5c0d3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/skeema/knownhosts",
+      "version": "v1.3.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__skeema__knownhosts@v1.3.1/LICENSE",
+        "LICENSES/go/github.com__skeema__knownhosts@v1.3.1/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/stretchr/objx",
+      "version": "v0.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__stretchr__objx@v0.5.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/stretchr/testify",
+      "version": "v1.11.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__stretchr__testify@v1.11.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tc-hib/winres",
+      "version": "v0.3.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tc-hib__winres@v0.3.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tidwall/gjson",
+      "version": "v1.14.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tidwall__gjson@v1.14.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tidwall/match",
+      "version": "v1.1.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tidwall__match@v1.1.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tidwall/pretty",
+      "version": "v1.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tidwall__pretty@v1.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tidwall/sjson",
+      "version": "v1.2.5",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tidwall__sjson@v1.2.5/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/tkrajina/go-reflector",
+      "version": "v0.5.8",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__tkrajina__go-reflector@v0.5.8/LICENSE.txt"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/twitchyliquid64/golang-asm",
+      "version": "v0.15.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__twitchyliquid64__golang-asm@v0.15.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/ugorji/go/codec",
+      "version": "v1.3.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__ugorji__go__codec@v1.3.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/valyala/bytebufferpool",
+      "version": "v1.0.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__valyala__bytebufferpool@v1.0.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/valyala/fasttemplate",
+      "version": "v1.2.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__valyala__fasttemplate@v1.2.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/wailsapp/go-webview2",
+      "version": "v1.0.22",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__wailsapp__go-webview2@v1.0.22/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/wailsapp/wails/v2",
+      "version": "v2.17.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__wailsapp__wails__v2@v2.17.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/wzshiming/ctc",
+      "version": "v1.2.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__wzshiming__ctc@v1.2.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/wzshiming/winseq",
+      "version": "v0.0.0-20200112104235-db357dc107ae",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__wzshiming__winseq@v0.0.0-20200112104235-db357dc107ae/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/xanzy/ssh-agent",
+      "version": "v0.3.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__xanzy__ssh-agent@v0.3.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/xo/terminfo",
+      "version": "v0.0.0-20220910002029-abceb7e1c41e",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__xo__terminfo@v0.0.0-20220910002029-abceb7e1c41e/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/yosida95/uritemplate/v3",
+      "version": "v3.0.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__yosida95__uritemplate__v3@v3.0.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/yuin/goldmark",
+      "version": "v1.7.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__yuin__goldmark@v1.7.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/yuin/goldmark-emoji",
+      "version": "v1.0.3",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__yuin__goldmark-emoji@v1.0.3/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "github.com/yusufpapurcu/wmi",
+      "version": "v1.2.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/github.com__yusufpapurcu__wmi@v1.2.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "go.uber.org/mock",
+      "version": "v0.5.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/go.uber.org__mock@v0.5.0/AUTHORS",
+        "LICENSES/go/go.uber.org__mock@v0.5.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/arch",
+      "version": "v0.20.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__arch@v0.20.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/crypto",
+      "version": "v0.53.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__crypto@v0.53.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/exp",
+      "version": "v0.0.0-20250620022241-b7579e27df2b",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__exp@v0.0.0-20250620022241-b7579e27df2b/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/image",
+      "version": "v0.41.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__image@v0.41.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/mod",
+      "version": "v0.37.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__mod@v0.37.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/net",
+      "version": "v0.56.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__net@v0.56.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/oauth2",
+      "version": "v0.30.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__oauth2@v0.30.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/sync",
+      "version": "v0.21.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__sync@v0.21.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/sys",
+      "version": "v0.46.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__sys@v0.46.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/telemetry",
+      "version": "v0.0.0-20260625142307-59b4966ccb57",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__telemetry@v0.0.0-20260625142307-59b4966ccb57/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/term",
+      "version": "v0.44.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__term@v0.44.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/text",
+      "version": "v0.39.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__text@v0.39.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/time",
+      "version": "v0.15.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__time@v0.15.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/tools",
+      "version": "v0.47.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__tools@v0.47.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "golang.org/x/xerrors",
+      "version": "v0.0.0-20191204190536-9bdfabe68543",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/golang.org__x__xerrors@v0.0.0-20191204190536-9bdfabe68543/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "google.golang.org/protobuf",
+      "version": "v1.36.9",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/google.golang.org__protobuf@v1.36.9/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "gopkg.in/check.v1",
+      "version": "v1.0.0-20200227125254-8fa46927fb4f",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/gopkg.in__check.v1@v1.0.0-20200227125254-8fa46927fb4f/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "gopkg.in/warnings.v0",
+      "version": "v0.1.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/gopkg.in__warnings.v0@v0.1.2/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "gopkg.in/yaml.v3",
+      "version": "v3.0.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/gopkg.in__yaml.v3@v3.0.1/LICENSE",
+        "LICENSES/go/gopkg.in__yaml.v3@v3.0.1/NOTICE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "howett.net/plist",
+      "version": "v1.0.2-0.20250314012144-ee69052608d9",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/howett.net__plist@v1.0.2-0.20250314012144-ee69052608d9/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/cc/v4",
+      "version": "v4.26.5",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__cc__v4@v4.26.5/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/ccgo/v4",
+      "version": "v4.28.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__ccgo__v4@v4.28.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/fileutil",
+      "version": "v1.3.40",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__fileutil@v1.3.40/AUTHORS",
+        "LICENSES/go/modernc.org__fileutil@v1.3.40/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/gc/v2",
+      "version": "v2.6.5",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__gc__v2@v2.6.5/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/goabi0",
+      "version": "v0.2.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__goabi0@v0.2.0/AUTHORS",
+        "LICENSES/go/modernc.org__goabi0@v0.2.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/libc",
+      "version": "v1.66.10",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__libc@v1.66.10/AUTHORS",
+        "LICENSES/go/modernc.org__libc@v1.66.10/COPYRIGHT-MUSL",
+        "LICENSES/go/modernc.org__libc@v1.66.10/LICENSE",
+        "LICENSES/go/modernc.org__libc@v1.66.10/LICENSE-GO"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/mathutil",
+      "version": "v1.7.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__mathutil@v1.7.1/AUTHORS",
+        "LICENSES/go/modernc.org__mathutil@v1.7.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/memory",
+      "version": "v1.11.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__memory@v1.11.0/AUTHORS",
+        "LICENSES/go/modernc.org__memory@v1.11.0/LICENSE",
+        "LICENSES/go/modernc.org__memory@v1.11.0/LICENSE-GO",
+        "LICENSES/go/modernc.org__memory@v1.11.0/LICENSE-LOGO",
+        "LICENSES/go/modernc.org__memory@v1.11.0/LICENSE-MMAP-GO"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/opt",
+      "version": "v0.1.4",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__opt@v0.1.4/AUTHORS",
+        "LICENSES/go/modernc.org__opt@v0.1.4/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/sortutil",
+      "version": "v1.2.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__sortutil@v1.2.1/AUTHORS",
+        "LICENSES/go/modernc.org__sortutil@v1.2.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/sqlite",
+      "version": "v1.39.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__sqlite@v1.39.1/AUTHORS",
+        "LICENSES/go/modernc.org__sqlite@v1.39.1/LICENSE",
+        "LICENSES/go/modernc.org__sqlite@v1.39.1/SQLITE-LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/strutil",
+      "version": "v1.2.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__strutil@v1.2.1/AUTHORS",
+        "LICENSES/go/modernc.org__strutil@v1.2.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "modernc.org/token",
+      "version": "v1.1.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/modernc.org__token@v1.1.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "mvdan.cc/sh/v3",
+      "version": "v3.7.0",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/mvdan.cc__sh__v3@v3.7.0/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "go",
+      "name": "rsc.io/pdf",
+      "version": "v0.1.1",
+      "license": "see license files",
+      "files": [
+        "LICENSES/go/rsc.io__pdf@v0.1.1/LICENSE"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@babel/helper-string-parser",
+      "version": "7.29.7",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@babel__helper-string-parser@7.29.7/LICENSE",
+        "LICENSES/npm/@babel__helper-string-parser@7.29.7/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@babel/helper-validator-identifier",
+      "version": "7.29.7",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@babel__helper-validator-identifier@7.29.7/LICENSE",
+        "LICENSES/npm/@babel__helper-validator-identifier@7.29.7/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@babel/parser",
+      "version": "7.29.9",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@babel__parser@7.29.9/LICENSE",
+        "LICENSES/npm/@babel__parser@7.29.9/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@babel/types",
+      "version": "7.29.8",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@babel__types@7.29.8/LICENSE",
+        "LICENSES/npm/@babel__types@7.29.8/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@ctrl/tinycolor",
+      "version": "4.2.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@ctrl__tinycolor@4.2.1/LICENSE",
+        "LICENSES/npm/@ctrl__tinycolor@4.2.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@element-plus/icons-vue",
+      "version": "2.3.2",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@element-plus__icons-vue@2.3.2/LICENSE",
+        "LICENSES/npm/@element-plus__icons-vue@2.3.2/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@floating-ui/core",
+      "version": "1.8.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@floating-ui__core@1.8.0/LICENSE",
+        "LICENSES/npm/@floating-ui__core@1.8.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@floating-ui/dom",
+      "version": "1.8.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@floating-ui__dom@1.8.0/LICENSE",
+        "LICENSES/npm/@floating-ui__dom@1.8.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@floating-ui/utils",
+      "version": "0.2.12",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@floating-ui__utils@0.2.12/LICENSE",
+        "LICENSES/npm/@floating-ui__utils@0.2.12/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@jridgewell/sourcemap-codec",
+      "version": "1.6.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@jridgewell__sourcemap-codec@1.6.0/LICENSE",
+        "LICENSES/npm/@jridgewell__sourcemap-codec@1.6.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@oxc-project/types",
+      "version": "0.153.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@oxc-project__types@0.153.0/LICENSE",
+        "LICENSES/npm/@oxc-project__types@0.153.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@sxzz/popperjs-es",
+      "version": "2.11.8",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@sxzz__popperjs-es@2.11.8/LICENSE.md",
+        "LICENSES/npm/@sxzz__popperjs-es@2.11.8/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@rolldown/binding-darwin-arm64",
+      "version": "1.2.13",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@rolldown__binding-darwin-arm64@1.2.13/LICENSE",
+        "LICENSES/npm/@rolldown__binding-darwin-arm64@1.2.13/THIRD-PARTY-LICENSE",
+        "LICENSES/npm/@rolldown__binding-darwin-arm64@1.2.13/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@rolldown/pluginutils",
+      "version": "1.0.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@rolldown__pluginutils@1.0.1/LICENSE",
+        "LICENSES/npm/@rolldown__pluginutils@1.0.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/lodash",
+      "version": "4.17.26",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@types__lodash@4.17.26/LICENSE",
+        "LICENSES/npm/@types__lodash@4.17.26/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/lodash-es",
+      "version": "4.17.12",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@types__lodash-es@4.17.12/LICENSE",
+        "LICENSES/npm/@types__lodash-es@4.17.12/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/node",
+      "version": "22.20.5",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@types__node@22.20.5/LICENSE",
+        "LICENSES/npm/@types__node@22.20.5/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/web-bluetooth",
+      "version": "0.0.21",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@types__web-bluetooth@0.0.21/LICENSE",
+        "LICENSES/npm/@types__web-bluetooth@0.0.21/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vitejs/plugin-vue",
+      "version": "6.0.7",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vitejs__plugin-vue@6.0.7/LICENSE",
+        "LICENSES/npm/@vitejs__plugin-vue@6.0.7/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@volar/language-core",
+      "version": "2.4.28",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@volar__language-core@2.4.28/LICENSE",
+        "LICENSES/npm/@volar__language-core@2.4.28/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@volar/source-map",
+      "version": "2.4.28",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@volar__source-map@2.4.28/LICENSE",
+        "LICENSES/npm/@volar__source-map@2.4.28/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@volar/typescript",
+      "version": "2.4.28",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@volar__typescript@2.4.28/LICENSE",
+        "LICENSES/npm/@volar__typescript@2.4.28/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/compiler-core",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__compiler-core@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__compiler-core@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/compiler-dom",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__compiler-dom@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__compiler-dom@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/compiler-sfc",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__compiler-sfc@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__compiler-sfc@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/compiler-ssr",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__compiler-ssr@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__compiler-ssr@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/devtools-api",
+      "version": "7.7.10",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__devtools-api@7.7.10/LICENSE",
+        "LICENSES/npm/@vue__devtools-api@7.7.10/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/devtools-kit",
+      "version": "7.7.10",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__devtools-kit@7.7.10/LICENSE",
+        "LICENSES/npm/@vue__devtools-kit@7.7.10/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/devtools-shared",
+      "version": "7.7.10",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__devtools-shared@7.7.10/LICENSE",
+        "LICENSES/npm/@vue__devtools-shared@7.7.10/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/language-core",
+      "version": "3.3.13",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__language-core@3.3.13/LICENSE",
+        "LICENSES/npm/@vue__language-core@3.3.13/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/reactivity",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__reactivity@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__reactivity@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/runtime-core",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__runtime-core@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__runtime-core@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/runtime-dom",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__runtime-dom@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__runtime-dom@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/server-renderer",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__server-renderer@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__server-renderer@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/shared",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__shared@3.5.44/LICENSE",
+        "LICENSES/npm/@vue__shared@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vueuse/core",
+      "version": "15.0.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vueuse__core@15.0.0/LICENSE",
+        "LICENSES/npm/@vueuse__core@15.0.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vueuse/metadata",
+      "version": "15.0.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vueuse__metadata@15.0.0/LICENSE",
+        "LICENSES/npm/@vueuse__metadata@15.0.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vueuse/shared",
+      "version": "15.0.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vueuse__shared@15.0.0/LICENSE",
+        "LICENSES/npm/@vueuse__shared@15.0.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "alien-signals",
+      "version": "3.2.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/alien-signals@3.2.1/LICENSE",
+        "LICENSES/npm/alien-signals@3.2.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "async-validator",
+      "version": "4.2.5",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/async-validator@4.2.5/LICENSE.md",
+        "LICENSES/npm/async-validator@4.2.5/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "birpc",
+      "version": "2.9.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/birpc@2.9.0/LICENSE",
+        "LICENSES/npm/birpc@2.9.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "copy-anything",
+      "version": "4.1.5",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/copy-anything@4.1.5/LICENSE",
+        "LICENSES/npm/copy-anything@4.1.5/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "csstype",
+      "version": "3.2.3",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/csstype@3.2.3/LICENSE",
+        "LICENSES/npm/csstype@3.2.3/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "dayjs",
+      "version": "1.11.23",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/dayjs@1.11.23/LICENSE",
+        "LICENSES/npm/dayjs@1.11.23/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "detect-libc",
+      "version": "2.1.2",
+      "license": "Apache-2.0",
+      "files": [
+        "LICENSES/npm/detect-libc@2.1.2/LICENSE",
+        "LICENSES/npm/detect-libc@2.1.2/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "element-plus",
+      "version": "2.14.7",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/element-plus@2.14.7/LICENSE",
+        "LICENSES/npm/element-plus@2.14.7/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "entities",
+      "version": "7.0.1",
+      "license": "BSD-2-Clause",
+      "files": [
+        "LICENSES/npm/entities@7.0.1/LICENSE",
+        "LICENSES/npm/entities@7.0.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "estree-walker",
+      "version": "2.0.2",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/estree-walker@2.0.2/LICENSE",
+        "LICENSES/npm/estree-walker@2.0.2/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fdir",
+      "version": "6.5.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/fdir@6.5.0/LICENSE",
+        "LICENSES/npm/fdir@6.5.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fsevents",
+      "version": "2.3.3",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/fsevents@2.3.3/LICENSE",
+        "LICENSES/npm/fsevents@2.3.3/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "hookable",
+      "version": "5.5.3",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/hookable@5.5.3/LICENSE.md",
+        "LICENSES/npm/hookable@5.5.3/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lightningcss",
+      "version": "1.33.0",
+      "license": "MPL-2.0",
+      "files": [
+        "LICENSES/npm/lightningcss@1.33.0/LICENSE",
+        "LICENSES/npm/lightningcss@1.33.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lightningcss-darwin-arm64",
+      "version": "1.33.0",
+      "license": "MPL-2.0",
+      "files": [
+        "LICENSES/npm/lightningcss-darwin-arm64@1.33.0/LICENSE",
+        "LICENSES/npm/lightningcss-darwin-arm64@1.33.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lodash",
+      "version": "4.18.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/lodash@4.18.1/LICENSE",
+        "LICENSES/npm/lodash@4.18.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lodash-es",
+      "version": "4.18.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/lodash-es@4.18.1/LICENSE",
+        "LICENSES/npm/lodash-es@4.18.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lodash-unified",
+      "version": "1.0.3",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/lodash-unified@1.0.3/PACKAGE-METADATA.json",
+        "LICENSES/npm/lodash-unified@1.0.3/LICENSE-REFERENCE.txt"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "magic-string",
+      "version": "0.30.21",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/magic-string@0.30.21/LICENSE",
+        "LICENSES/npm/magic-string@0.30.21/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "memoize-one",
+      "version": "6.0.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/memoize-one@6.0.0/LICENSE",
+        "LICENSES/npm/memoize-one@6.0.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "mitt",
+      "version": "3.0.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/mitt@3.0.1/LICENSE",
+        "LICENSES/npm/mitt@3.0.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "muggle-string",
+      "version": "0.4.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/muggle-string@0.4.1/LICENSE",
+        "LICENSES/npm/muggle-string@0.4.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "nanoid",
+      "version": "3.3.20",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/nanoid@3.3.20/LICENSE",
+        "LICENSES/npm/nanoid@3.3.20/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "normalize-wheel-es",
+      "version": "1.2.0",
+      "license": "BSD-3-Clause",
+      "files": [
+        "LICENSES/npm/normalize-wheel-es@1.2.0/LICENSE",
+        "LICENSES/npm/normalize-wheel-es@1.2.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "path-browserify",
+      "version": "1.0.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/path-browserify@1.0.1/LICENSE",
+        "LICENSES/npm/path-browserify@1.0.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "perfect-debounce",
+      "version": "1.0.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/perfect-debounce@1.0.0/LICENSE",
+        "LICENSES/npm/perfect-debounce@1.0.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "picocolors",
+      "version": "1.1.1",
+      "license": "ISC",
+      "files": [
+        "LICENSES/npm/picocolors@1.1.1/LICENSE",
+        "LICENSES/npm/picocolors@1.1.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "picomatch",
+      "version": "4.0.7",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/picomatch@4.0.7/LICENSE",
+        "LICENSES/npm/picomatch@4.0.7/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "pinia",
+      "version": "3.0.4",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/pinia@3.0.4/LICENSE",
+        "LICENSES/npm/pinia@3.0.4/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "postcss",
+      "version": "8.5.30",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/postcss@8.5.30/LICENSE",
+        "LICENSES/npm/postcss@8.5.30/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "rfdc",
+      "version": "1.4.1",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/rfdc@1.4.1/LICENSE",
+        "LICENSES/npm/rfdc@1.4.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "rolldown",
+      "version": "1.2.13",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/rolldown@1.2.13/LICENSE",
+        "LICENSES/npm/rolldown@1.2.13/THIRD-PARTY-LICENSE",
+        "LICENSES/npm/rolldown@1.2.13/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "source-map-js",
+      "version": "1.2.2",
+      "license": "BSD-3-Clause",
+      "files": [
+        "LICENSES/npm/source-map-js@1.2.2/LICENSE",
+        "LICENSES/npm/source-map-js@1.2.2/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "speakingurl",
+      "version": "14.0.1",
+      "license": "BSD-3-Clause",
+      "files": [
+        "LICENSES/npm/speakingurl@14.0.1/LICENSE",
+        "LICENSES/npm/speakingurl@14.0.1/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "superjson",
+      "version": "2.2.6",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/superjson@2.2.6/LICENSE",
+        "LICENSES/npm/superjson@2.2.6/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tinyglobby",
+      "version": "0.2.17",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/tinyglobby@0.2.17/LICENSE",
+        "LICENSES/npm/tinyglobby@0.2.17/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "typescript",
+      "version": "5.9.3",
+      "license": "Apache-2.0",
+      "files": [
+        "LICENSES/npm/typescript@5.9.3/LICENSE.txt",
+        "LICENSES/npm/typescript@5.9.3/ThirdPartyNoticeText.txt",
+        "LICENSES/npm/typescript@5.9.3/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "undici-types",
+      "version": "6.21.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/undici-types@6.21.0/LICENSE",
+        "LICENSES/npm/undici-types@6.21.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vite",
+      "version": "8.3.4",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vite@8.3.4/LICENSE.md",
+        "LICENSES/npm/vite@8.3.4/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vscode-uri",
+      "version": "3.2.0",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vscode-uri@3.2.0/LICENSE.md",
+        "LICENSES/npm/vscode-uri@3.2.0/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vue",
+      "version": "3.5.44",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vue@3.5.44/LICENSE",
+        "LICENSES/npm/vue@3.5.44/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vue-component-type-helpers",
+      "version": "3.3.13",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vue-component-type-helpers@3.3.13/LICENSE",
+        "LICENSES/npm/vue-component-type-helpers@3.3.13/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vue-router",
+      "version": "4.6.4",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vue-router@4.6.4/LICENSE",
+        "LICENSES/npm/vue-router@4.6.4/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@vue/devtools-api",
+      "version": "6.6.4",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/@vue__devtools-api@6.6.4/toolbox-vue-devtools-LICENSE",
+        "LICENSES/npm/@vue__devtools-api@6.6.4/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "name": "vue-tsc",
+      "version": "3.3.13",
+      "license": "MIT",
+      "files": [
+        "LICENSES/npm/vue-tsc@3.3.13/LICENSE",
+        "LICENSES/npm/vue-tsc@3.3.13/PACKAGE-METADATA.json"
+      ]
+    },
+    {
+      "ecosystem": "toolchain",
+      "name": "go",
+      "version": "1.27.2",
+      "license": "see license files",
+      "files": [
+        "LICENSES/toolchain/go@1.27.2/LICENSE"
+      ]
+    }
+  ]
+}

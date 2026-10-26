@@ -1,0 +1,13 @@
+{
+  "name": "@vueuse/shared",
+  "version": "15.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vueuse/vueuse.git",
+    "directory": "packages/shared"
+  },
+  "author": "Anthony Fu <https://github.com/antfu>",
+  "homepage": "https://github.com/vueuse/vueuse/tree/main/packages/shared#readme",
+  "development_dependency": false
+}

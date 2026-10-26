@@ -1,0 +1,11 @@
+{
+  "name": "entities",
+  "version": "7.0.1",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fb55/entities.git"
+  },
+  "author": "Felix Boehm <me@feedic.com>",
+  "development_dependency": false
+}

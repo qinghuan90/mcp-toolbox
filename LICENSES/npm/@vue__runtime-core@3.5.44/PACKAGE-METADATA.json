@@ -1,0 +1,13 @@
+{
+  "name": "@vue/runtime-core",
+  "version": "3.5.44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/runtime-core"
+  },
+  "author": "Evan You",
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/runtime-core#readme",
+  "development_dependency": false
+}

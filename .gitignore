@@ -1,0 +1,46 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+local.env
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+/code/toolbox.json
+/code/toolbox-config.json
+listener-settings.json
+
+# Runtime data and generated files
+**/data/
+**/artifacts/
+**/packages/
+**/backups/
+**/runtime-logs/
+*.sqlite*
+*.db
+*.db-*
+*.log
+**/node_modules/
+**/dist/
+**/.cache/
+**/__pycache__/
+*.pyc
+*.tsbuildinfo
+/code/backend/server
+/code/backend/cmd/server/webdist/
+/code/desktop/build/bin/
+/code/test-results/
+/code/tests/playwright-report/
+/output/
+
+# Local tooling
+.DS_Store
+.idea/
+.vscode/
+
+# Tests and acceptance materials are maintained outside this release snapshot
+/code/tests/
+*_test.go
+*.spec.mjs

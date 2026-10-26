@@ -1,0 +1,13 @@
+{
+  "name": "@vitejs/plugin-vue",
+  "version": "6.0.7",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitejs/vite-plugin-vue.git",
+    "directory": "packages/plugin-vue"
+  },
+  "author": "Evan You",
+  "homepage": "https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue#readme",
+  "development_dependency": true
+}

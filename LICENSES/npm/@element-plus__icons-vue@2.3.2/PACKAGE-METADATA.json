@@ -1,0 +1,12 @@
+{
+  "name": "@element-plus/icons-vue",
+  "version": "2.3.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus-icons.git",
+    "directory": "packages/vue"
+  },
+  "homepage": "https://element-plus.org/",
+  "development_dependency": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@oxc-project/types",
+  "version": "0.153.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxc-project/oxc.git",
+    "directory": "npm/oxc-types"
+  },
+  "author": "Boshen and oxc contributors",
+  "homepage": "https://oxc.rs",
+  "development_dependency": true
+}

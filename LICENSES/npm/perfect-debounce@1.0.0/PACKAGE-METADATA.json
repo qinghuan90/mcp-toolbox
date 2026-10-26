@@ -1,0 +1,7 @@
+{
+  "name": "perfect-debounce",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "unjs/perfect-debounce",
+  "development_dependency": false
+}

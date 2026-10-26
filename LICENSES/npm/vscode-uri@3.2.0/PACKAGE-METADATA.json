@@ -1,0 +1,12 @@
+{
+  "name": "vscode-uri",
+  "version": "3.2.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microsoft/vscode-uri.git"
+  },
+  "author": "Microsoft",
+  "homepage": "https://github.com/microsoft/vscode-uri#readme",
+  "development_dependency": true
+}

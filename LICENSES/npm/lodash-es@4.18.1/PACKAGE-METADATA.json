@@ -1,0 +1,9 @@
+{
+  "name": "lodash-es",
+  "version": "4.18.1",
+  "license": "MIT",
+  "repository": "lodash/lodash",
+  "author": "John-David Dalton <john.david.dalton@gmail.com>",
+  "homepage": "https://lodash.com/custom-builds",
+  "development_dependency": false
+}

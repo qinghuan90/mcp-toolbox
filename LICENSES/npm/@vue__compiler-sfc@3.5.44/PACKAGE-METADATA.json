@@ -1,0 +1,13 @@
+{
+  "name": "@vue/compiler-sfc",
+  "version": "3.5.44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/compiler-sfc"
+  },
+  "author": "Evan You",
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/compiler-sfc#readme",
+  "development_dependency": false
+}

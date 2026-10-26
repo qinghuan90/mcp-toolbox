@@ -1,0 +1,12 @@
+{
+  "name": "@rolldown/pluginutils",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolldown/plugins.git",
+    "directory": "packages/pluginutils"
+  },
+  "homepage": "https://github.com/rolldown/plugins/tree/main/packages/pluginutils#readme",
+  "development_dependency": true
+}

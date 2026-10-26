@@ -1,0 +1,10 @@
+{
+  "listen_host": "127.0.0.1",
+  "listen_port": 8090,
+  "database_path": "data/toolbox.sqlite",
+  "package_directory": "packages",
+  "public_url": "",
+  "access_cidrs": [],
+  "tls_cert_file": "",
+  "tls_key_file": ""
+}

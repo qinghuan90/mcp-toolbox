@@ -1,0 +1,12 @@
+{
+  "name": "normalize-wheel-es",
+  "version": "1.2.0",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxzz/normalize-wheel-es.git"
+  },
+  "author": "Bas Stottelaar",
+  "homepage": "https://github.com/sxzz/normalize-wheel-es#readme",
+  "development_dependency": false
+}

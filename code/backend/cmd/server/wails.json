@@ -1,0 +1,17 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Toolbox",
+  "outputfilename": "Toolbox",
+  "frontend:dir": "../../../web",
+  "frontend:install": "npm ci --cache ../.cache/npm",
+  "frontend:build": "npm run build",
+  "build:dir": "../../../desktop/build",
+  "build:tags": "desktop",
+  "info": {
+    "companyName": "Toolbox",
+    "productName": "Toolbox Desktop",
+    "productVersion": "0.1.11",
+    "comments": "Standalone local MCP workspace",
+    "copyright": "Copyright © 2026 Toolbox"
+  }
+}

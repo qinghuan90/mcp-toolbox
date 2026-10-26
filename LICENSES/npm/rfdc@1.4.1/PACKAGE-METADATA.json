@@ -1,0 +1,12 @@
+{
+  "name": "rfdc",
+  "version": "1.4.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/rfdc.git"
+  },
+  "author": "David Mark Clements <david.clements@nearform.com>",
+  "homepage": "https://github.com/davidmarkclements/rfdc#readme",
+  "development_dependency": false
+}

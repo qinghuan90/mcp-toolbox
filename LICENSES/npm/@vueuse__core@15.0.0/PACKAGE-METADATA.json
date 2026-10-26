@@ -1,0 +1,13 @@
+{
+  "name": "@vueuse/core",
+  "version": "15.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vueuse/vueuse.git",
+    "directory": "packages/core"
+  },
+  "author": "Anthony Fu <https://github.com/antfu>",
+  "homepage": "https://github.com/vueuse/vueuse#readme",
+  "development_dependency": false
+}

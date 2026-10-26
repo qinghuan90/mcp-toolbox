@@ -1,0 +1,15 @@
+{
+  "name": "superjson",
+  "version": "2.2.6",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blitz-js/superjson"
+  },
+  "author": {
+    "name": "Simon Knott",
+    "email": "info@simonknott.de",
+    "url": "https://simonknott.de"
+  },
+  "development_dependency": false
+}

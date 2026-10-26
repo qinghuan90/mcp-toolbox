@@ -1,0 +1,8 @@
+{
+  "name": "csstype",
+  "version": "3.2.3",
+  "license": "MIT",
+  "repository": "https://github.com/frenic/csstype",
+  "author": "Fredrik Nicol <fredrik.nicol@gmail.com>",
+  "development_dependency": false
+}

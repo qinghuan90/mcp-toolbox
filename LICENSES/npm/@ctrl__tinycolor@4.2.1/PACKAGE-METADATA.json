@@ -1,0 +1,9 @@
+{
+  "name": "@ctrl/tinycolor",
+  "version": "4.2.1",
+  "license": "MIT",
+  "repository": "scttcper/tinycolor",
+  "author": "Scott Cooper <scttcper@gmail.com>",
+  "homepage": "https://tinycolor.vercel.app",
+  "development_dependency": false
+}

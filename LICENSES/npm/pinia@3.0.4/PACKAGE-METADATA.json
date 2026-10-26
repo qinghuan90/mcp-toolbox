@@ -1,0 +1,15 @@
+{
+  "name": "pinia",
+  "version": "3.0.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/pinia.git"
+  },
+  "author": {
+    "name": "Eduardo San Martin Morote",
+    "email": "posva13@gmail.com"
+  },
+  "homepage": "https://pinia.vuejs.org",
+  "development_dependency": false
+}

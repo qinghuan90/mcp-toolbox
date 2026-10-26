@@ -1,0 +1,8 @@
+{
+  "name": "@sxzz/popperjs-es",
+  "version": "2.11.8",
+  "license": "MIT",
+  "repository": "github:popperjs/popper-core",
+  "author": "Federico Zivolo <federico.zivolo@gmail.com>",
+  "development_dependency": false
+}

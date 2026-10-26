@@ -1,0 +1,13 @@
+{
+  "name": "@vue/server-renderer",
+  "version": "3.5.44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/server-renderer"
+  },
+  "author": "Evan You",
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/server-renderer#readme",
+  "development_dependency": false
+}

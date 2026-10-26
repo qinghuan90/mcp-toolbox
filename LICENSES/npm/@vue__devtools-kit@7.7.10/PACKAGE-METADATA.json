@@ -1,0 +1,12 @@
+{
+  "name": "@vue/devtools-kit",
+  "version": "7.7.10",
+  "license": "MIT",
+  "repository": {
+    "directory": "packages/devtools-kit",
+    "type": "git",
+    "url": "git+https://github.com/vuejs/devtools.git"
+  },
+  "author": "webfansplz",
+  "development_dependency": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "birpc",
+  "version": "2.9.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfu-collective/birpc.git"
+  },
+  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "homepage": "https://github.com/antfu-collective/birpc#readme",
+  "development_dependency": false
+}

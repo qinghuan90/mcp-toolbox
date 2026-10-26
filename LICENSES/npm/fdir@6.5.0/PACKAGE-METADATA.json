@@ -1,0 +1,12 @@
+{
+  "name": "fdir",
+  "version": "6.5.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodrr/fdir.git"
+  },
+  "author": "thecodrr <thecodrr@protonmail.com>",
+  "homepage": "https://github.com/thecodrr/fdir#readme",
+  "development_dependency": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@volar/language-core",
+  "version": "2.4.28",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/volarjs/volar.js.git",
+    "directory": "packages/language-core"
+  },
+  "development_dependency": true
+}

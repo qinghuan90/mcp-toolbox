@@ -1,0 +1,11 @@
+{
+  "name": "detect-libc",
+  "version": "2.1.2",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lovell/detect-libc.git"
+  },
+  "author": "Lovell Fuller <npm@lovell.info>",
+  "development_dependency": true
+}

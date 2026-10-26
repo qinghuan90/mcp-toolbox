@@ -1,0 +1,11 @@
+{
+  "name": "async-validator",
+  "version": "4.2.5",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yiminghe/async-validator.git"
+  },
+  "homepage": "https://github.com/yiminghe/async-validator",
+  "development_dependency": false
+}

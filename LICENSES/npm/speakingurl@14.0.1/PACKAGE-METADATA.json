@@ -1,0 +1,12 @@
+{
+  "name": "speakingurl",
+  "version": "14.0.1",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pid/speakingurl.git"
+  },
+  "author": "Sascha Droste <pid@posteo.net> (https://twitter.com/SaschaDroste)",
+  "homepage": "http://pid.github.io/speakingurl/",
+  "development_dependency": false
+}

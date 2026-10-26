@@ -1,0 +1,11 @@
+{
+  "name": "element-plus",
+  "version": "2.14.7",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus.git"
+  },
+  "homepage": "https://element-plus.org/",
+  "development_dependency": false
+}

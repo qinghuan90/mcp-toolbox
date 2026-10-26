@@ -1,0 +1,15 @@
+{
+  "name": "@vue/devtools-api",
+  "version": "6.6.4",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/vuejs/vue-devtools.git",
+    "type": "git",
+    "directory": "packages/api"
+  },
+  "author": {
+    "name": "Guillaume Chau"
+  },
+  "development_dependency": false,
+  "license_source": "https://github.com/vuejs/devtools-v6/blob/v6.6.4/LICENSE"
+}

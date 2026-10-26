@@ -1,0 +1,12 @@
+{
+  "name": "@types/web-bluetooth",
+  "version": "0.0.21",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/web-bluetooth"
+  },
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/web-bluetooth",
+  "development_dependency": false
+}

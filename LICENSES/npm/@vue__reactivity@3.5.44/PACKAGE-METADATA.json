@@ -1,0 +1,13 @@
+{
+  "name": "@vue/reactivity",
+  "version": "3.5.44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/reactivity"
+  },
+  "author": "Evan You",
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/reactivity#readme",
+  "development_dependency": false
+}

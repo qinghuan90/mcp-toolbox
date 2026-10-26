@@ -1,0 +1,12 @@
+{
+  "name": "vue",
+  "version": "3.5.44",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git"
+  },
+  "author": "Evan You",
+  "homepage": "https://vuejs.org/",
+  "development_dependency": false
+}
